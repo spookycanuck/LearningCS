@@ -1,0 +1,13 @@
+C:\Users\sabre\Desktop\programming\LearningCS\bin\Debug\netcoreapp3.1\LearningCS.exe
+C:\Users\sabre\Desktop\programming\LearningCS\bin\Debug\netcoreapp3.1\LearningCS.deps.json
+C:\Users\sabre\Desktop\programming\LearningCS\bin\Debug\netcoreapp3.1\LearningCS.runtimeconfig.json
+C:\Users\sabre\Desktop\programming\LearningCS\bin\Debug\netcoreapp3.1\LearningCS.runtimeconfig.dev.json
+C:\Users\sabre\Desktop\programming\LearningCS\bin\Debug\netcoreapp3.1\LearningCS.dll
+C:\Users\sabre\Desktop\programming\LearningCS\bin\Debug\netcoreapp3.1\LearningCS.pdb
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.csprojAssemblyReference.cache
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.csproj.CoreCompileInputs.cache
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.AssemblyInfoInputs.cache
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.AssemblyInfo.cs
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.dll
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.pdb
+C:\Users\sabre\Desktop\programming\LearningCS\obj\Debug\netcoreapp3.1\LearningCS.genruntimeconfig.cache
