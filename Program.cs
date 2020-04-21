@@ -1,7 +1,7 @@
 ﻿using System;
 
 // YT link:  https://www.youtube.com/watch?v=wwnDtE6Z-ic&feature=youtu.be
-// Current progress:  25:00
+// Current progress:  X
 namespace LearningCS
 {
     class Program
