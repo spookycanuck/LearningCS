@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabre\\Desktop\\programming\\LearningCS\\LearningCS.csproj": {}
+    "C:\\Users\\sabre\\Desktop\\WFH\\LearningCS\\LearningCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabre\\Desktop\\programming\\LearningCS\\LearningCS.csproj": {
+    "C:\\Users\\sabre\\Desktop\\WFH\\LearningCS\\LearningCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabre\\Desktop\\programming\\LearningCS\\LearningCS.csproj",
+        "projectUniqueName": "C:\\Users\\sabre\\Desktop\\WFH\\LearningCS\\LearningCS.csproj",
         "projectName": "LearningCS",
-        "projectPath": "C:\\Users\\sabre\\Desktop\\programming\\LearningCS\\LearningCS.csproj",
+        "projectPath": "C:\\Users\\sabre\\Desktop\\WFH\\LearningCS\\LearningCS.csproj",
         "packagesPath": "C:\\Users\\sabre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabre\\Desktop\\programming\\LearningCS\\obj\\",
+        "outputPath": "C:\\Users\\sabre\\Desktop\\WFH\\LearningCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sabre\\AppData\\Roaming\\NuGet\\NuGet.Config"
